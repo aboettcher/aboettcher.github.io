@@ -4,7 +4,7 @@ title: Anaconda environments
 permalink: /visual_studio_code/anaconda_environments
 ---
 
-Usually I work with a local Anaconda installation and create virtual envs for different projects. Usually Visual Studio Code finds the installed environments and lists them. If the preferred base anaconda installation is not shown in Visual Studio Code it is best to configure it using the user level settings as follows:
+Usually I work with a local Anaconda installation and create virtual envs for different projects. Most of the time Visual Studio Code finds the installed environments and lists them. If the preferred base anaconda installation is not shown in Visual Studio Code it is best to configure it using the user level settings as follows:
 
 1. Open the command palette by clicking on the gear in the bottom left and choose "Command Palette..." (or by using a keyboard shortcut):
    ![open the command palette](assets/anaconda_environments/1.png)
